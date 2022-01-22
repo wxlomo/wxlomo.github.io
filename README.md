@@ -1,3 +1,3 @@
 # Personal Website Pages
-Under Construction <br>
+<b>Under Construction </b>
 Copyright © 2021 Weixuan Yang
