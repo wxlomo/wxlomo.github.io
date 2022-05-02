@@ -7,4 +7,4 @@ Personal website pages.
 
 Under Construction
 
-<br><b>Copyright © 2021 Weixuan Yang</b>
+<br><b>Copyright © 2021 [Weixuan Yang](https://www.linkedin.com/in/weixuanyang/)</b>
