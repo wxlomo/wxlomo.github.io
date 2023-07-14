@@ -5,6 +5,7 @@ subtitle:
 permalink: /blog/
 ---
 
+Hello...
 <ul class="list-posts">
     {% for post in site.posts %}
     <li class="post-teaser">
