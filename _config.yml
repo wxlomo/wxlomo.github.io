@@ -3,13 +3,13 @@ title: This is Wèixuān
 description: >
   
 
-baseurl: ""
+baseurl: "/about/"
 url: "https://wxlomo.github.io"
 
 author:
   fullname: Wèixuān Yáng
-  email: mailto:endreim@outlook.com
-  linkedin: https://www.linkedin.com/in/weixuanyang/
+  email: endreim@outlook.com
+  linkedin: weixuanyang
   github: wxlomo
 
 # Syntax highlighting
