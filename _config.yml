@@ -5,6 +5,7 @@ description: >
 
 baseurl: ""
 url: "https://wxlomo.github.io"
+logo: /assets/icon.png
 
 author:
   fullname: Wèixuān Yáng
